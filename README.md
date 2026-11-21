@@ -51,7 +51,7 @@
 📧 **maikillo@gmail.com**  
 🌐 [GitHub](https://github.com/Maikillo)  
 📸 [Instagram](https://instagram.com/_maikillo)  
-💼 [LinkedIn]([https://linkedin.com/in/maikillo](https://www.linkedin.com/in/marcosgoncalvesmendes/)
+💼 [LinkedIn](https://www.linkedin.com/in/marcosgoncalvesmendes/)
 
 ---
 
