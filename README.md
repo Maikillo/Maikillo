@@ -26,15 +26,11 @@
 🛠️ Conhecimentos em Windows, manutenção de PCs e Pacote Office; Linux, SQL e ferramentas de Help Desk em aprendizado. Informática Profissional pela SOS Tecnologia e Educação, concluída em 2020. As tecnologias abaixo aparecem nos meus estudos e projetos.  
 ☁️ Cloud Security e AppSec são objetivos de evolução profissional, que quero conectar à minha base em suporte e desenvolvimento.
 
-| Frontend | Backend | Tools | (learning)
-|-----------|----------|--------|
-![Java](https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c)
-![HTML5](https://img.shields.io/badge/Frontend-HTML5-red?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/Frontend-CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Tool-Git-black?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visualstudiocode)|
+| 🌐 Frontend | 🧠 Backend / Lógica | 🛠️ Tools | 🌱 Learning |
+| :---: | :---: | :---: | :---: |
+| ![HTML5](https://img.shields.io/badge/Frontend-HTML5-red?style=for-the-badge&logo=html5) | ![Java](https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java) | ![Git](https://img.shields.io/badge/Tool-Git-black?style=for-the-badge&logo=git) | ![Python em formação](https://img.shields.io/badge/Estudando-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/Frontend-CSS3-blue?style=for-the-badge&logo=css3) | ![C](https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c) | ![VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=for-the-badge&logo=visualstudiocode) | ![Linux em aprendizado](https://img.shields.io/badge/Estudando-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge&logo=javascript) | ![Orientação a objetos](https://img.shields.io/badge/Fundamentos-POO-8B5CF6?style=for-the-badge) | ![Windows](https://img.shields.io/badge/Suporte-Windows-0078D4?style=for-the-badge) | ![SQL em aprendizado](https://img.shields.io/badge/Estudando-SQL-336791?style=for-the-badge) |
 
 ---
 
