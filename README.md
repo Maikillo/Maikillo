@@ -1,6 +1,6 @@
-# Marcos Mendes
+# 🎮 Marcos Mendes
 
-### Suporte Técnico N2 | Rumo a Analista SOC e Analista de Segurança da Informação / Cibersegurança
+### 💻 Suporte Técnico N2 | 🛡️ Rumo a Analista SOC e Analista de Segurança da Informação / Cibersegurança
 
 Atuo como Suporte Técnico N2 na Stratus e estou direcionando minha carreira para futuras oportunidades como **Analista SOC** e **Analista de Segurança da Informação / Cibersegurança**.
 
@@ -8,20 +8,20 @@ Quero conectar minha experiência em suporte e minha base em desenvolvimento à 
 
 📍 Campo Belo – MG, Brasil
 
-## Objetivo profissional
+## 🎯 Objetivo profissional
 
 Construir uma base técnica para atuar em operações de segurança, com interesse em monitoramento de eventos, análise de logs, triagem de alertas e resposta a incidentes.
 
 Essas áreas representam meu direcionamento de carreira. Os projetos publicados neste perfil demonstram minha prática em programação e desenvolvimento de aplicações.
 
-## Formação e desenvolvimento
+## 🎓 Formação e desenvolvimento
 
-- Informática — CEFET-MG.
-- Full Stack Python — EBAC, em formação.
-- Aprimoramento de fundamentos de programação, orientação a objetos, testes, validação de entradas e organização de aplicações.
-- Interesse em aprofundar fundamentos de redes, sistemas operacionais e segurança da informação como preparação para atuar em SOC.
+- 🎓 Informática — CEFET-MG.
+- 🐍 Full Stack Python — EBAC, em formação.
+- 🧠 Aprimoramento de fundamentos de programação, orientação a objetos, testes, validação de entradas e organização de aplicações.
+- 🛡️ Interesse em aprofundar fundamentos de redes, sistemas operacionais e segurança da informação como preparação para atuar em SOC.
 
-## Projetos de desenvolvimento
+## 🚀 Projetos de desenvolvimento
 
 | Projeto | O que demonstra | Tecnologias |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ Essas áreas representam meu direcionamento de carreira. Os projetos publicados 
 Os READMEs apresentam instruções de execução e limites de cada projeto. Exercícios e protótipos são identificados como tal; alguns projetos adicionais permanecem privados.
 
 
-## Tecnologias utilizadas nos projetos
+## ⚔️ Tecnologias utilizadas nos projetos
 
 <div align="center">
 
@@ -54,12 +54,12 @@ Os READMEs apresentam instruções de execução e limites de cada projeto. Exer
 </div>
 
 
-## Idiomas
+## 🌍 Idiomas
 
-**Português** — Nativo  
-**Inglês** — Em aprendizado
+🇧🇷 **Português** — Nativo  
+🇺🇸 **Inglês** — Em aprendizado
 
-## Contato
+## 📡 Contato
 
 <div align="center">
 
