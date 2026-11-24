@@ -1,6 +1,6 @@
 # Marcos Mendes
 
-### Suporte Técnico N2 | Em transição para SOC e Segurança da Informação / Cibersegurança
+### Suporte Técnico N2 | Rumo a Analista SOC e Analista de Segurança da Informação / Cibersegurança
 
 Atuo como Suporte Técnico N2 na Stratus e estou direcionando minha carreira para futuras oportunidades como **Analista SOC** e **Analista de Segurança da Informação / Cibersegurança**.
 
